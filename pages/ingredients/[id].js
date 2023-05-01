@@ -11,7 +11,7 @@ function id() {
   
   
   const answers=getMealRecipe(Mealid);
-  const names=answers.ingredients
+  
 
   
   useEffect(()=>{
