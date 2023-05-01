@@ -1,5 +1,4 @@
 import { getAllEvents, getMealRecipe } from '@/chinese';
-import Ingredients from '@/components/Ingredients';
 import { useRouter } from 'next/router';
 import React, { useEffect } from 'react'
 
